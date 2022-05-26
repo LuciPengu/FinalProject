@@ -1,0 +1,16 @@
+﻿  AdvAlgoProject.cpp
+C:\Users\nealc\source\repos\AdvAlgoProject\AdvAlgoProject\Player.h(33,36): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nealc\source\repos\AdvAlgoProject\AdvAlgoProject\Player.h(37,36): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nealc\source\repos\AdvAlgoProject\AdvAlgoProject\AdvAlgoProject.cpp(76,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nealc\source\repos\AdvAlgoProject\AdvAlgoProject\AdvAlgoProject.cpp(79,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nealc\source\repos\AdvAlgoProject\AdvAlgoProject\AdvAlgoProject.cpp(120,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nealc\source\repos\AdvAlgoProject\AdvAlgoProject\AdvAlgoProject.cpp(121,31): warning C4305: '-=': truncation from 'double' to 'float'
+  AdvAlgoProject.vcxproj -> C:\Users\nealc\source\repos\AdvAlgoProject\x64\Debug\AdvAlgoProject.exe
